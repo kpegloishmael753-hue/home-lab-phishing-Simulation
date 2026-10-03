@@ -20,6 +20,7 @@ Setup > Clone > Socail Engineering > Credentials Theft
 ## Workflow/Methodology ##
 ## Lab Setup ##
 Created isolated /28 network using iPhone hotspot to ensure no external traffic and started Gophish server.  
+![Gosphish server](Gophish_server .JPG)
 ## Email Template ##
 Designed fake Facebook alert — "Suspicious Sign-in Prevented" — to create urgency. Added {{.TrackingURL}} for tracking.
 ## Landing Page ##
