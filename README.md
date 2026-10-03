@@ -25,7 +25,7 @@ Created isolated /28 network using iPhone hotspot to ensure no external traffic 
 Designed fake Facebook alert — "Suspicious Sign-in Detected" — to create urgency. Added {{.TrackingURL}} for tracking. 
 ## Landing Page ##
 Cloned Facebook login page and imported into Gophish. Set redirect to https://facebook.com after credentials captured to avoid suspicion.
-![Landing and redirect page](
+![Landing and redirect page](Landing_and_redirect_page.JPG)
 ## Campaign Launch ##
 Sent to my own test account, clicked from iPhone Safari (iOS 18.7) and submitted test credentials.
 ## Credentials Captured ##
