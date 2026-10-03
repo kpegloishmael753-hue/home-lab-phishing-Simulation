@@ -32,7 +32,7 @@ Sent to my own test account, clicked from iPhone Safari (iOS 18.7) and submitted
 
 ## Cloned Page and Redirection ##
 I clicked on the link in the email from my phone and it sent me to the cloned Facebook page with an IP address in the URL bar,(a classic phishing signature). I entered my credentials and it redirected me to the real Facebook login page with  Facebook’s domain in the search bar. 
-![Cloned page](Cloned_page.JPG)
+![Cloned page](cloned_page.JPG)
 ![Redirect page](Redirect_page.PNG)
 ## Credentials Captured ##
 The credentials appeared on the Gophish dashboard as stolen credentials 
