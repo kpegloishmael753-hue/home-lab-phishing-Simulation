@@ -28,6 +28,7 @@ Cloned Facebook login page and imported into Gophish. Set redirect to https://fa
 ![Landing and redirect page](Landing_and_redirect_page.JPG)
 ## Campaign Launch ##
 Sent to my own test account, clicked from iPhone Safari (iOS 18.7) and submitted test credentials.
+![Phishing email](Phishing_email.PNG)
 ## Credentials Captured ##
 I checked my email and clicked on the link from my phone, it took me to the cloned page with an IP address in the URL bar, I entered the login credentials and it redirected me to the real Facebook page with the Facebook domain in the URL bar. This is to prevent suspicion after the credentials has been stolen. The credentials appeared on the Gophish dashboard. 
 
