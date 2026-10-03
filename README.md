@@ -36,4 +36,5 @@ I clicked on the link in the email from my phone and it sent me to the cloned Fa
 ![Redirect page](Redirect_page.PNG)
 ## Credentials Captured ##
 The credentials appeared on the Gophish dashboard as stolen credentials 
+![Gophish dashboard](Gophish_dashbaord.JPG)
 
